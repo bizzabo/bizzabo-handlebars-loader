@@ -1,5 +1,7 @@
-# backbone-relational-server
-Use [Backbone Relational](http://backbonerelational.org/) on the backend.
+# bizzabo-handlebars-helper
+Webpack loader with handlebars (including runtime + compiler)
 
 ## Installation
-npm install backbone-relational-server --save
+npm install handlebars --save
+npm install handlebars-helper --save
+npm install bizzabo-handlebars-helper --save
