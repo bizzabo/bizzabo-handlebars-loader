@@ -1,0 +1,20 @@
+{
+  "name": "bizzabo-handlebars-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader with handlebars (including runtime + compiler)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bizzabo/bizzabo-handlebars-loader.git"
+  },
+  "keywords": [
+    "handlebars",
+    "handlebars-loader",
+    "webpack"
+  ],
+  "author": "Bizzabo",
+  "license": "MIT"
+}
