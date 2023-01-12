@@ -1,6 +1,6 @@
 {
   "name": "bizzabo-handlebars-loader",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Webpack loader with handlebars (including runtime + compiler)",
   "main": "index.js",
   "scripts": {
