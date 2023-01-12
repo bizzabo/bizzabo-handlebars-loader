@@ -1,5 +1,5 @@
 var Handlebars = require('handlebars');
-var HandlebarsTemplateLoader = require('handlebars-template-loader');
+var HandlebarsTemplateLoader = require('handlebars-loader');
 
 var pathForHandlebarsRuntime = require.resolve('handlebars/runtime');
 var pathForHandlebars = require.resolve('handlebars');

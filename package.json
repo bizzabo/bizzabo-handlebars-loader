@@ -15,6 +15,10 @@
     "handlebars-loader",
     "webpack"
   ],
+  "peerDependencies": {
+    "handlebars": "^2.0.0",
+    "handlebars-loader": "^1.7.3"
+  },
   "author": "Bizzabo",
   "license": "MIT"
 }
